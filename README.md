@@ -16,7 +16,7 @@ Term: Spring 2022
 + **Project summary**: Machine Learning fairness is an established area of machine learning to ensure model fairness for certain groups or individuals by minimizing biases derived from data and correcting inaccuracies of model predictions. Two different algorithms from the published papers were implemented and compared to determine which algorithm is more fair. The data that contains the criminal history, jail, prison time, demographics and so forth was used for the ML algorithms to predict criminal defendants' likelihood to re-offend.
 
 	+ 1st algorithm: [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)](https://arxiv.org/abs/1610.08452)
-	+ 2nd algorithm: [Fairness-aware Classifier with Prejudice Remover Regularizer (PR)]()
+	+ 2nd algorithm: [Fairness-aware Classifier with Prejudice Remover Regularizer (PR)](https://link.springer.com/chapter/10.1007/978-3-642-33486-3_3)
 	+ Data used: [compas-scores-two-years.csv](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
 
 + **Results summary**: 
