@@ -5,7 +5,7 @@
 Term: Spring 2022
 
 + Team 7
-+ Projec title: Machine Learning Fairness (DM vs DM-sen vs PR)
++ Projec title: Machine Learning Fairness (DM/DM-sen vs PR)
 + Team members
 	+ Shintaro Nakamura (sn2904@columbia.edu)
 	+ Jiazheng Chen (jc5656@columbia.edu)
@@ -13,7 +13,9 @@ Term: Spring 2022
 	+ Xiangyu Ma (xm2258@columbia.edu)
 	+ Nichole Zhang (qz2446@columbia.edu)
 
-+ Project summary: 
++ Project summary: Machine Learning fairness is an established area of machine learning to ensure model fairness for certain groups or individuals by minimizing biases derived from data and correcting inaccuracies of model predictions. Two different algorithms from the published papers were implemented and compared to determine which algorithm is more fair.
+	+ 1st algorithm: [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)](https://arxiv.org/abs/1610.08452)
+	+ 2nd algorithm: [Fairness-aware Classifier with Prejudice Remover Regularizer (PR)]()
 
 + Results summary: 
 
