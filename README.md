@@ -13,15 +13,15 @@ Term: Spring 2022
 	+ Xiangyu Ma (xm2258@columbia.edu)
 	+ Nichole Zhang (qz2446@columbia.edu)
 
-+ Project summary: Machine Learning fairness is an established area of machine learning to ensure model fairness for certain groups or individuals by minimizing biases derived from data and correcting inaccuracies of model predictions. Two different algorithms from the published papers were implemented and compared to determine which algorithm is more fair. The data that contains the criminal history, jail, prison time, demographics and so forth was used for the ML algorithms to predict criminal defendants' likelihood to re-offend.
++ **Project summary**: Machine Learning fairness is an established area of machine learning to ensure model fairness for certain groups or individuals by minimizing biases derived from data and correcting inaccuracies of model predictions. Two different algorithms from the published papers were implemented and compared to determine which algorithm is more fair. The data that contains the criminal history, jail, prison time, demographics and so forth was used for the ML algorithms to predict criminal defendants' likelihood to re-offend.
 
 	+ 1st algorithm: [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)](https://arxiv.org/abs/1610.08452)
 	+ 2nd algorithm: [Fairness-aware Classifier with Prejudice Remover Regularizer (PR)]()
 	+ Data used: [compas-scores-two-years.csv](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
 
-+ Results summary: 
++ **Results summary**: 
 
-+ Technologies used: Python (sklearn, cvxpy, dccp, torch, scipy, numpy, pandas)
++ **Technologies used**: Python (sklearn, cvxpy, dccp, torch, scipy, numpy, pandas)
 
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
