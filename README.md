@@ -19,8 +19,6 @@ Term: Spring 2022
 	+ Algorithm 5: [Fairness-aware Classifier with Prejudice Remover Regularizer (PR)](https://link.springer.com/chapter/10.1007/978-3-642-33486-3_3)
 	+ Data used: [compas-scores-two-years.csv](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
 
-+ **Results summary**: 
-
 + **Technologies used**: Python (sklearn, cvxpy, dccp, torch, scipy, numpy, pandas)
 
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
