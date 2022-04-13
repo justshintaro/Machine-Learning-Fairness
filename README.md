@@ -13,7 +13,7 @@ Term: Spring 2022
 	+ Xiangyu Ma (xm2258@columbia.edu)
 	+ Nichole Zhang (qz2446@columbia.edu)
 
-+ **Project summary**: Machine Learning fairness is an established area of machine learning to ensure model fairness for certain groups or individuals by minimizing biases derived from data and correcting inaccuracies of model predictions. Two different algorithms from the published papers were implemented and compared to determine which algorithm is more fair. The data that contains the criminal history, jail, prison time, demographics and so forth was used for the ML algorithms to predict criminal defendants' likelihood to re-offend.
++ **Project summary**: Machine Learning fairness is an established area of machine learning to ensure model fairness for certain groups or individuals by minimizing biases derived from data and correcting inaccuracies of model predictions. Two different algorithms from the published papers were implemented and compared to determine which algorithm is more fair. The data, that contains the criminal history, jail, prison time, demographics and so forth, is used for the ML algorithms to predict criminal defendants' likelihood to re-offend.
 
 	+ Algorithm 4: [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)](https://arxiv.org/abs/1610.08452)
 	+ Algorithm 5: [Fairness-aware Classifier with Prejudice Remover Regularizer (PR)](https://link.springer.com/chapter/10.1007/978-3-642-33486-3_3)
