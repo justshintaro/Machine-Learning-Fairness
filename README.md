@@ -1,4 +1,4 @@
-# Project 4: Machine Learning Fairness
+# Project : Machine Learning Fairness
 
 ### [Project Description](doc/project4_desc.md)
 
